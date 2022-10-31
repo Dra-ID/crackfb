@@ -15,8 +15,8 @@ $ pip install stdiomask
 
 $ git clone https://github.com/Vinzzz-ID/crackfb
 
-$ cd crack
+$ cd crackfb
 
-$ python Brute.py
+$ python Vindra.py
 
 SELAMAT MENCOBA GUYSS:)
