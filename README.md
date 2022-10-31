@@ -13,7 +13,7 @@ $ pip install rich bs4
 
 $ pip install stdiomask
 
-$ git clone https://github.com/Vinzzz-ID/crackfb
+$ git clone https://github.com/Vindraproject/crackfb
 
 $ cd crackfb
 
