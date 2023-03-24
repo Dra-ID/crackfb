@@ -18,6 +18,6 @@ $ git clone https://github.com/Vindraproject/crackfb
 
 $ cd crackfb
 
-$ python Vindra.py
+$ python module.sh
 
 SELAMAT MENCOBA GUYSS:)
