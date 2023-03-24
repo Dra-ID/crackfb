@@ -1,3 +1,4 @@
+<p align=left> <img src=https://komarev.com/ghpvc/?username=vindradec alt=Demias/> </p>
 # crackfb
 $ pkg update && pkg upgrade
 
